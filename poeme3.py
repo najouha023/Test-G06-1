@@ -1,1 +1,3 @@
 update ("poeme3")
+
+# La vie est belle quand on est un concepteur de DB...
